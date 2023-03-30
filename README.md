@@ -46,9 +46,9 @@
 ### Fonte de informação 
 [Youtube -> Dunossauro](https://www.youtube.com/@Dunossauro)  
 [Youtube -> Bruno Rocha](https://www.youtube.com/@rochacbruno)  
-[Youtube -> Regis do Python](https://www.youtube.com/@RegisdoPython)
-[Welcome to Django](https://henriquebastos.net/produtos/welcome-to-the-django/em-breve/)
-[Python Pro](https://pythonpro.com.br/)
+[Youtube -> Regis do Python](https://www.youtube.com/@RegisdoPython)  
+[Welcome to Django](https://henriquebastos.net/produtos/welcome-to-the-django/em-breve/)  
+[Python Pro](https://pythonpro.com.br/)  
 [Fullcycle](https://fullcycle.com.br/)  
 [Alura](https://www.alura.com.br/)
   
