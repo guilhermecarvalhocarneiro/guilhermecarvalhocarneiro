@@ -1,3 +1,9 @@
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/Tche-Marco">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermecarvalhocarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecarvalhocarneiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 ### O que estou estudando
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
