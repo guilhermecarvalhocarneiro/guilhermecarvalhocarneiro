@@ -1,7 +1,8 @@
 <div align="left" style="display: inline_block">
-  <a href="https://github.com/Tche-Marco">
+  <a href="https://github.com/guilhermecarvalhocarneiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermecarvalhocarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecarvalhocarneiro&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   
 ### O que estou estudando
